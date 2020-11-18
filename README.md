@@ -24,9 +24,9 @@ Scenario: Imagine a team of developers in the conference room doing their sprint
 -	After all logged-in users have given story points to the current story, all the story points given will be revealed *without pressing browser reload* (e.g. A gave 2 points, B gave 3 points etc.) 
 -	After that any user can choose a new “Active Story”.
  
-### Non-Functional Requirements
+### Non-Functional Requirements (What do we want from your work)
  
 -	*Java Spring Boot*, database optional, i.e. you can store everything in hash maps
 -	*ReactJS* based frontend, additional technologies/frameworks optional
 -	A README good enough that tells us how to start your app or deploy on any cloud
--	A big plus to use any push mechanism to notify frontend of changes, e.g. HTTP SSE, websockets (instead of polling http requests)
+-	A big plus to use any push mechanism to notify frontend of story-point changes, e.g. HTTP SSE, websockets (instead of polling on HTTP requests)
