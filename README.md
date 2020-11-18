@@ -12,7 +12,7 @@ Scenario: Imagine a team of developers in the conference room doing their sprint
     * implement chat feature
     * add KYC UI to back office
     * create FX market stop order
--	Users can assign a story point estimate to the current story from the following selection:
+-	Users can assign their own story point estimate to the current story from the following selection:
     * 1
     * 2
     * 3
