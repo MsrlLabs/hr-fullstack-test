@@ -26,7 +26,7 @@ Scenario: Imagine a team of developers in the conference room doing their sprint
 
 ### Non-Functional Requirements (What we want from your work)
 
--	**Java Spring Boot**, database optional, i.e. you can store everything in hash maps
--	**ReactJS** based frontend, additional technologies/frameworks optional
+-	**Java Spring Boot** is required. Database is optional, i.e. you can store everything in hash maps
+-	**ReactJS** based frontend. Additional technologies/frameworks optional
 -	A README good enough that tells us how to start your app or deploy on any cloud
 -	A big plus to use any push mechanism to notify frontend of story-point changes, e.g. HTTP SSE, websockets. Polling is still accepted but less preferred.
