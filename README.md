@@ -30,3 +30,8 @@ Scenario: Imagine a team of developers in the conference room doing their sprint
 -	**ReactJS** based frontend. Additional technologies/frameworks optional
 -	A README good enough that tells us how to start your app or deploy on any cloud
 -	A big plus to use any push mechanism to notify frontend of story-point changes, e.g. HTTP SSE, websockets. Polling is still accepted but less preferred.
+
+
+### Submission ###
+
+Push the app to a private GitHub repo and collaborate with GitHub user sing-seekers.
