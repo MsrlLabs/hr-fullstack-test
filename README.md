@@ -34,4 +34,4 @@ Scenario: Imagine a team of developers in the conference room doing their sprint
 
 ### Submission ###
 
-Push the app to a private GitHub repo and collaborate with GitHub user sing-seekers.
+Push the app to a private GitHub repo and collaborate with GitHub user ywsing-msrl.
